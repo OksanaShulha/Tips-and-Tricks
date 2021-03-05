@@ -1,0 +1,4 @@
+>> Go to the location where the local recording files are stored and copy all the .zoom files to be converted.
+>> Open Zoom and start a new meeting. Record the meeting and wait a few seconds, then pause the recording.
+>> Back to the Zoom folder and find the newly recorded recordings. You’ll see the recordings are save in “.zoom” files. Replace the new Zoom files with the old Zoom files that you just copied.
+>> Return to Zoom and un-pause the recording, then stop and end the meeting. Zoom will automatically convert the switched Zoom files to MP4.
