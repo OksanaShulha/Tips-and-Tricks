@@ -1,0 +1,4 @@
+
+    Clear your npm cache: sudo npm cache clean -f
+    Install the latest version of the Node helper: sudo npm install -g n
+    Tell the helper (n) to install the latest stable version of Node: sudo n stable
