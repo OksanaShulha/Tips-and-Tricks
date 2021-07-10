@@ -1,0 +1,9 @@
+1. git remote - v
+// add remote another repo 
+2. git remote add[name of repo to fetch][link repo]
+// check if remote is added 
+3. git remote - v
+// fetch repo added
+4. git fetch[name of repo to fetch]/master
+// rebase
+5. git rebase [name of repo to fetch]/master
